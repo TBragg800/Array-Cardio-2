@@ -3,30 +3,21 @@
 ##  Repository: 
 [Array-Cardio-2](https://github.com/TBragg800/Array-Cardio-2)
 
-##  Deployed:
-[Array-Cardio-2](https://tbragg800.github.io/Array-Cardio-2/)
-
 ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/TBragg800/Array-Cardio-2)
 
 ## Table of Contents
   [Description](#Description)
 
-  [Usage](#Usage)
-
   [License](#License)
 
   [Questions](#Questions)
   
 ## Description
-  This is an application was created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to gain additional practice with 
-  . To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
+  This is an application was created by following the Javascript 30 instruction series by Wes Bos. The purpose of the exercise is to gain additional practice with to gain more expierience with array methods and functional programming. To find out more about the instruction series visit the site at [Wes Bos JavaScript 30](https://javascript30.com/)
 
 ## Installation
   Simply clone the repo locally.
-
-## Usage
-  Either open the index.html file in the browser of your choice or visit the github pages hosted application at [Array-Cardio-2](https://tbragg800.github.io/Array-Cardio-2/)
 
 ## License
   MIT License
@@ -55,7 +46,4 @@ SOFTWARE.
   All questions should be submitted to the email listed below. Please consult the GitHub profile or Repo for additional concerns. 
   Email: tbbragg83@gmail.com
   Github: [TBragg800](http://github.com/TBragg800)
-
-## Screenshot of deployed application
-![](./assets/Array-Cardio-2.png)
 
